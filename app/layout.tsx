@@ -12,6 +12,7 @@ export default function RootLayout({
         className={`preventhydration`}
       >
         <ThemeProvider
+        //@ts-ignore
             attribute="class"
             defaultTheme="system"
             enableSystem

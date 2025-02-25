@@ -7,6 +7,7 @@ import Experience from "@/components/Experience";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
 import Projects from "@/components/Projects/projects";
+import './globals.css'
 
 export default function Page() {
   return (
