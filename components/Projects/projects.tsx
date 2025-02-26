@@ -10,25 +10,25 @@ export default function Projects() {
 
   const projectData = [
     {
-      title: "Project 1",
-      description: "This is a demo project",
-      img: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      ProjectLink: "https://github.com",
+      title: "Chat App",
+      description: "A real-time chat application that enables users to communicate instantly with a sleek and responsive UI. Built using React and TailwindCSS, it provides a seamless messaging experience with an intuitive interface.",
+      img: "/p1.png",
+      ProjectLink: "https://chat-app-e6fu.onrender.com/",
       TechStack: "React, TailwindCSS",
     },
     {
-      title: "Project 2",
-      description: "This is a demo project",
-      img: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      ProjectLink: "https://github.com",
+      title: "Quick Pay",
+      description: "A secure and fast digital payment solution that allows users to send and receive payments effortlessly. Built with React and TailwindCSS, it features a modern UI and smooth transaction processing.",
+      img: "/p2.png",
+      ProjectLink: "https://quick-pay-roan.vercel.app/",
       TechStack: "React, TailwindCSS",
     },
     {
-      title: "Project 3",
-      description: "This is a demo project",
-      img: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      ProjectLink: "https://github.com",
-      TechStack: "React, TailwindCSS",
+      title: "Blog App",
+      description: "A full-fledged blogging platform where users can create, edit, and manage their blog posts. Developed using React, TailwindCSS, and TurboRepo, it ensures optimized performance and a great user experience.",
+      img: "/p3.png",
+      ProjectLink: "https://github.com/maheshsemwal/Blog-App",
+      TechStack: "React, TailwindCSS, TurboRepo",
     },
   ];
 

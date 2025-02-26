@@ -1,8 +1,8 @@
 export const navItems = [
     { name: "About", link: "#about" },
-    { name: "Resume", link: "#" },
+    { name: "Resume", link: "https://drive.google.com/file/d/12EfzRANnHBtb6T8LyyPG0Ht9l6pr6igY/view?usp=sharing" },
     { name: "Projects", link: "#projects" },
-    { name: "Blogs", link: "#"},
+    // { name: "Blogs", link: "#"},
     { name: "Contact", link: "#contact" },
   ];
 
